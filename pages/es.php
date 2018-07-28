@@ -1,5 +1,5 @@
 <?php head(); ?>
-<nav><div class="orange nav-wrapper"><a href="/" class="white-text brand-logo center">Ping de Servidores PUGB <small class="hoverable version">v3</small></a><div style="background-color: rgba(0,0,0,0.2); color: #fff; margin-left: 15px" class="chip"><img src="/images/avatar.jpg" alt=":)">Disquse</div></div></nav>
+<nav><div class="orange nav-wrapper"><a href="/" class="white-text brand-logo center">Ping de Servidores PUBG <small class="hoverable version">v3</small></a><div style="background-color: rgba(0,0,0,0.2); color: #fff; margin-left: 15px" class="chip"><img src="/images/avatar.jpg" alt=":)">Disquse</div></div></nav>
 <div class="container row">
 	<br><div class="col s12 m10 l10 offset-m1 offset-l1">
         <div class="card-panel" style="padding: 18px;">
