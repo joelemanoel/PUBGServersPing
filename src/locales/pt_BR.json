@@ -1,0 +1,12 @@
+{
+  "locale-name": "Português do Brasil",
+  "locale-author": "steyrbrasil",
+  "public-message": "Bem-vindo! Nós recriamos o site, se removemos algum recurso que você usava, por favor nos avise na seção de Questões do <a href='http://github.com/disquse/pubgserversping'> GitHub </a>.",
+  "ping-button": "Ping",
+  "about-button": "Sobre Nós",
+  "clear-button": "Limpar tudo",
+  "locale-button": "Linguagem",
+  "close-button": "Fechar",
+  "no-selected-servers": "Você precisa selecionar pelo menos 1 servidor.",
+  "something-is-broken": "Ops, parece que alguém quebrou algo. :( Tente novamente mais tarde!"
+}
